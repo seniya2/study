@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ...
+=======
+>>>>>>> refs/remotes/origin/a1
 =======
 >>>>>>> refs/remotes/origin/a1
